@@ -16,5 +16,8 @@
   },
   "lint-staged": {
     "*.{js,css,md}": "prettier --write"
+  },
+  "dependencies": {
+    "fastify-plugin": "^4.0.0"
   }
 }
