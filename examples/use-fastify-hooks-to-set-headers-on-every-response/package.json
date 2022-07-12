@@ -1,0 +1,16 @@
+{
+  "name": "use-fastify-hooks-to-set-headers-on-every-response",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon"
+  },
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
