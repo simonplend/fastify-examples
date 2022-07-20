@@ -14,6 +14,13 @@ TODO: Add requirements for using this project.
 
 - [Use Fastify hooks to set headers on every response](examples/use-fastify-hooks-to-set-headers-on-every-response/) ([blog post](https://simonplend.com/use-fastify-hooks-to-set-headers-on-every-response/))
 
+## Examples in other repositories
+
+TODO: Get started with Fastify workshop (simonplend)
+TODO: Delvedor's repository
+TODO: Covid Green API
+TODO: James Fastify contributors examples repo
+
 ## Development
 
 ```bash
